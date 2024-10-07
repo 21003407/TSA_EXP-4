@@ -20,8 +20,8 @@ To implement ARMA model in python.
 
 ### PROGRAM:
 ```
-Developed By: G Venkata Pavan Kumar
-Reg. No: 212221240013
+Developed By: A joans jay authers
+Reg. No: 212221240019
 ```
 ```python
 from pandas import read_csv
